@@ -1,0 +1,25 @@
+{
+  "name": "personalwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsTalwar/personalWork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsTalwar/personalWork/issues"
+  },
+  "homepage": "https://github.com/itsTalwar/personalWork#readme",
+  "dependencies": {
+    "jsonfile": "^5.0.0",
+    "moment": "^2.24.0",
+    "random": "^2.1.1",
+    "simple-git": "^1.126.0"
+  }
+}
